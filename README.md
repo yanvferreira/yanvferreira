@@ -7,7 +7,7 @@ I'm currently focused on Python development but always ready for any challenges!
 
 ## 🚀 My Skills
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,py,mysql,postgres,bash,linux,git" />
+    <img src="https://skillicons.dev/icons?i=java,php,py,vue,mysql,postgres,bash,linux,git" />
   </a>
 
 ## 📱 Follow me

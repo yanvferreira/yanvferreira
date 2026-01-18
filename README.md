@@ -2,8 +2,10 @@
 I'm Frontend and Backend developer with some skills in infrastructure tecnologies. I have a degree in Information Systems with a postgraduate degree in cybercrime.
 I'm currently focused on Python development but always ready for any challenges!
 
-[![Yan Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=yanvferreira&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yanvferreira&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=yanvferreira&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast) 
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yanvferreira&theme=radical)](https://github.com/Pranesh-2005/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=yanferreira)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+
 
 ## 🚀 My Skills
   <a href="https://skillicons.dev">
